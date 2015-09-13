@@ -15,8 +15,6 @@ Unreal http://wiki.beyondunreal.com/wiki/
 Google http://www.google.com/search?q=
 GoogleGroups http://groups.google.com/groups?q=
 KnowHow http://www2.iro.umontreal.ca/~paquetse/cgi-bin/wiki.cgi?
-Bzla http://bugzilla.gnome.org/show_bug.cgi?id=
-BugZilla http://bugzilla.gnome.org/show_bug.cgi?id=
 Foldoc http://www.foldoc.org/foldoc/foldoc.cgi?
 JargonFile http://sunir.org/apps/meta.pl?wiki=JargonFile&amp;redirect=
 Acronym http://www.acronymfinder.com/af-query.asp?String=exact&amp;Acronym=
